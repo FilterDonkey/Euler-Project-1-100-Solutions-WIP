@@ -11,3 +11,4 @@ sq_sum = pow(sq_sum,2)
 
 diff = abs(sum_sq - sq_sum)
 print(diff)
+
